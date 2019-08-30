@@ -53,3 +53,19 @@ class Book
 		}
 	}
 }
+output:
+enter number of objects to be created=
+2
+enter title of the book,author name,price,no of pages=
+s
+d
+1
+2
+tile=s,author=d,price=1.0pages=2
+enter title of the book,author name,price,no of pages=
+s
+d
+2
+3
+tile=s,author=d,price=2.0pages=3
+
