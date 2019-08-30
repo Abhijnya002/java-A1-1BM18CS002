@@ -57,15 +57,15 @@ output:
 enter number of objects to be created=
 2
 enter title of the book,author name,price,no of pages=
-s
-d
-1
-2
-tile=s,author=d,price=1.0pages=2
+grewal
+xxx
+100
+589
+tile=grewal,author=xxx,price=100.0pages=589
 enter title of the book,author name,price,no of pages=
-s
-d
-2
-3
-tile=s,author=d,price=2.0pages=3
+java
+ray
+200
+490
+tile=java,author=ray,price=200.0pages=490
 
