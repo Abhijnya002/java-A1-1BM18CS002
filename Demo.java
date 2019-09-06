@@ -51,3 +51,17 @@ class Demo
 		s.output();
 	}
 }
+output=
+	enter interset rate and time=
+2
+3
+enter name,no,balance=
+abhi
+768934
+4
+simple interset=24.0
+name=abhi
+phone number=768934
+balance=4.0
+rate=2
+time=3
