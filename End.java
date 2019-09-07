@@ -27,3 +27,13 @@ class End
 		System.out.println("count="+count);
 	}	
 }
+output=
+Enter the number of elements to be entered=
+5
+Enter the elements=
+1
+3
+2
+4
+5
+count=3
